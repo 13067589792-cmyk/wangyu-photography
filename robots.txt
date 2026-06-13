@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /photos.json
+
+Sitemap: https://wangyu.photography/sitemap.xml
